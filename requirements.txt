@@ -1,0 +1,5 @@
+# Standard library only (no external dependencies required for core gateway)
+# Optional extensions:
+# requests>=2.31.0
+# fastapi>=0.100.0
+# uvicorn>=0.22.0
